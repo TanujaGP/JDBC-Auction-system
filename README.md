@@ -1,2 +1,0 @@
-# JDBC-Auction-system
-
